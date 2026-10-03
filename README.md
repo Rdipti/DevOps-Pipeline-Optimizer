@@ -1,4 +1,4 @@
-# BMW CodeCraft DevOps Pipeline Project
+# DevOps-Pipeline-Performance-Optimizer
 
 I built this project to get a better handle on how large-scale infrastructure teams (like the ones at BMW) track their performance. The goal was simple: simulate a high-traffic software environment, find the bottlenecks using SQL, and automate the boring parts of the reporting process.
 
